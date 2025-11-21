@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36414.22 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formUI", "formUI\formUI.csproj", "{55AB1B65-8B43-4658-B0B6-DA996A6BD07A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formBLL", "formBLL\formBLL.csproj", "{5FA96AD7-2C32-4537-B29E-7C15F251899A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "formDAL", "formDAL\formDAL.csproj", "{14BD94E6-50D0-4A3A-B34D-6447144C4D53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AB1B65-8B43-4658-B0B6-DA996A6BD07A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AB1B65-8B43-4658-B0B6-DA996A6BD07A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AB1B65-8B43-4658-B0B6-DA996A6BD07A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AB1B65-8B43-4658-B0B6-DA996A6BD07A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FA96AD7-2C32-4537-B29E-7C15F251899A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA96AD7-2C32-4537-B29E-7C15F251899A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA96AD7-2C32-4537-B29E-7C15F251899A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA96AD7-2C32-4537-B29E-7C15F251899A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14BD94E6-50D0-4A3A-B34D-6447144C4D53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14BD94E6-50D0-4A3A-B34D-6447144C4D53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14BD94E6-50D0-4A3A-B34D-6447144C4D53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14BD94E6-50D0-4A3A-B34D-6447144C4D53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0FD8319-0012-46F9-8EBB-E1E3CDA8CA5A}
+	EndGlobalSection
+EndGlobal

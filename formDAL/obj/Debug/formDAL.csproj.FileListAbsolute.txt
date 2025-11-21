@@ -1,0 +1,7 @@
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\bin\Debug\formDAL.dll
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\bin\Debug\formDAL.pdb
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\obj\Debug\formDAL.csproj.AssemblyReference.cache
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\obj\Debug\formDAL.csproj.CoreCompileInputs.cache
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\obj\Debug\formDAL.dll
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\obj\Debug\formDAL.pdb
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formDAL\bin\Debug\formDAL.dll.config

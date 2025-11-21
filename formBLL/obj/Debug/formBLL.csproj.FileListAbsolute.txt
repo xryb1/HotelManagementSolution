@@ -1,0 +1,10 @@
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\bin\Debug\formBLL.dll
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\bin\Debug\formBLL.pdb
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\bin\Debug\formDAL.dll
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\bin\Debug\formDAL.pdb
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\obj\Debug\formBLL.csproj.AssemblyReference.cache
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\obj\Debug\formBLL.csproj.CoreCompileInputs.cache
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\obj\Debug\formBLL.csproj.Up2Date
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\obj\Debug\formBLL.dll
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\obj\Debug\formBLL.pdb
+D:\VB-PROJECTS\new instructor pf102\HotelManagementSolution\formBLL\bin\Debug\formDAL.dll.config

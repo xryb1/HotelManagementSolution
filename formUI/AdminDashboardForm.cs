@@ -31,5 +31,26 @@ namespace formUI
         {
 
         }
+
+        private void grpAdminTools_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnReports_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        public partial class LoginForm : Form 
+        {
+            
+        }
+        private void btnLogout_Click_1(object sender, EventArgs e)
+        {
+            this.Close();
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+        }
     }
 }

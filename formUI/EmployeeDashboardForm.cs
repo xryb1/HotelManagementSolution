@@ -31,5 +31,49 @@ namespace formUI
         {
 
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpAdminTools_Enter(object sender, EventArgs e)
+        {
+
+        }
+
+        private void grpSharedTools_Enter(object sender, EventArgs e)
+        {
+
+        }
+        public partial class LoginForm : Form
+        {
+
+        }
+        private void btnLogout_Click(object sender, EventArgs e)
+        {
+            this.Close();
+
+            LoginForm loginForm = new LoginForm();
+            loginForm.Show();
+        }
+
+        private void label1_Click_1(object sender, EventArgs e)
+        {
+
+        }
+
+        public partial class NewBookingForm : Form
+        {
+
+        }
+        private void btnNewBooking_Click(object sender, EventArgs e)
+        {
+            // The NewBookingForm is shared functionality.
+            NewBookingForm bookingForm = new NewBookingForm();
+            bookingForm.ShowDialog(); // Use ShowDialog() to keep focus on this task
+        }
+
+        
     }
 }
